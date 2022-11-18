@@ -20,7 +20,7 @@ function App() {
             Fib Calculator
           </a>
           <Link to="/">Home</Link>
-          <Link to="/otherpage">Other Page</Link>
+          <Link to="/otherpage">aaaaaaaaaaaaaaa</Link>
         </header>
         <div>
           <Route exact path="/" component={Fib} />
